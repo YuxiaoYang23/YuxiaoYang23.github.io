@@ -12,7 +12,7 @@ title                    : "YuxiaoYang's Homepage"
 title_separator          : "-"
 name                     : &name "Yuxiao Yang"
 description              : &description "I am currently a 1st-Year Master student at **Tsinghua University**, advised by Prof.Haoqian Wang. Previously, I did my bachelor's degree in Information Engineering at Zhejiang University."
-url                      : https://yuxiaoyang23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuxiaoyang23.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
