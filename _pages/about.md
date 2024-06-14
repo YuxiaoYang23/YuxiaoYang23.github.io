@@ -16,7 +16,7 @@ Biography
 -->
 I am currently a 1st-Year Master student at **Tsinghua University**, advised by Prof.[Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate). Previously, I did my bachelor's degree in Information Engineering at **Zhejiang University**.
 
-My currrent research topic is 3D computer vision.
+My currrent research topic is 3D generative model.
 
 [Email](yangyuxi23@mails.tsinghua.edu.cn) / [Github](https://github.com/YuxiaoYang23)
 
