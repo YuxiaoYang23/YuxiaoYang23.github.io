@@ -18,188 +18,87 @@ I am currently a Master student at **Tsinghua University**, advised by Prof.[Hao
 
 My research interest includes video generation, 3D generation, and multimodal learning.
 
-
-Publications
-======
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">ICLR 2026</div>
-      <img src="/images/EchoMotion.png" alt="EchoMotion teaser" />
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**
-
-**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year.
-
-*ICLR 2026*
-
-[[arXiv](https://arxiv.org/abs/2512.18814)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">TPAMI</div>
-      <img src="/images/wonder3d++.png" alt="Wonder3D++ teaser" />
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-**Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image**
-
-**Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin.
-
-*IEEE Transactions on Pattern Analysis and Machine Intelligence*
-
-[[arXiv](https://arxiv.org/abs/2511.01767)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">ICCV 2025</div>
-      <img src="/images/mvar.png" alt="MVAR teaser" />
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-**Auto-Regressively Generating Multi-View Consistent Images**
-
-JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu.
-
-*ICCV 2025*
-
-[[arXiv](https://arxiv.org/abs/2506.18527)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">ICME 2025</div>
-      <img src="/images/NOVA3D.png" alt="NOVA3D teaser" />
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**
-
-**Y Yang**, P Li, Y Zhang, J Lu, X He, M Qin, W Wang, H Wang.
-
-*ICME 2025 Best Paper Final List*
-
-[[arXiv](https://arxiv.org/abs/2506.07698)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">AAAI 2025</div>
-      <img src="/images/mvreward.png" alt="Mvreward teaser" />
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-**Mvreward: Better aligning and evaluating multi-view diffusion models with human preferences**
-
-W Wang, H Xu, **Y Yang**, Z Liu, J Meng, H Wang.
-
-*AAAI 2025*
-
-[[arXiv](https://arxiv.org/abs/2412.06614)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">AAAI 2026</div>
-      <img src="/images/TBSD.png" alt="TBSD teaser" />
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-**Target-Balanced Score Distillation**
-
-Z Xu, Q Wang, **Y Yang**, L Zhang, Z Liang, Y Li.
-
-*AAAI 2026*
-
-[[arXiv](https://arxiv.org/abs/2511.11710)]
-  </div>
-</div>
+[Email](yyxiao319319@gmail.com) / [Github](https://github.com/YuxiaoYang23) / [Google Scholar](https://scholar.google.com/citations?user=WwKt4BEAAAAJ&hl=en)
 
 
 Experience
 ======
+* <img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11
+* <img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02
+* <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜2025.02 - 2025.12
+* <img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> MiniMax｜TopTalent Intern｜2025.12 - 2026.02
+* <img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> ByteDance｜Researcher｜2026.02 - Now
 
-<div class="paper-box">
-  <div class="paper-box-image" style="flex: 0 0 80px; display: flex; align-items: center;">
-    <img src="/images/hkust-logo.png" alt="HKUST logo" class="internship-logo" />
-  </div>
-  <div class="paper-box-text" markdown="1">
-**HKUST**
 
-Research Intern
 
-*2024.06 - 2024.11*
-  </div>
+Publications
+======
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/EchoMotion.png' alt="EchoMotion teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2512.18814" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**</a><br>
+<span style="font-size: 18px;">**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year</span><br>
+<span style="font-size: 18px;"> `https://arxiv.org/abs/2512.18814`</span>
+
+<span style="font-size: 18px;">-  We present EchoMotion, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+
 </div>
-
-<div class="paper-box">
-  <div class="paper-box-image" style="flex: 0 0 80px; display: flex; align-items: center;">
-    <img src="/images/baidu-logo.png" alt="Baidu logo" class="internship-logo" />
-  </div>
-  <div class="paper-box-text" markdown="1">
-**Baidu**
-
-Research Intern
-
-*2024.12 - 2025.02*
-  </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-PAMI</div><img src='images/wonder3d++.png' alt="Wonder3D++ teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class="paper-box">
-  <div class="paper-box-image" style="flex: 0 0 80px; display: flex; align-items: center;">
-    <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" class="internship-logo" />
-  </div>
-  <div class="paper-box-text" markdown="1">
-**Alibaba Cloud**
+<a href="https://arxiv.org/abs/2511.01767" style="font-size: 22px; color: #483D8B; text-decoration: none">**Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image**</a><br>
+<span style="font-size: 18px;">**Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin</span><br>
+<span style="font-size: 18px;"> `https://arxiv.org/abs/2511.01767`</span>
 
-Research Intern
+<span style="font-size: 18px;">-  We present Wonder3D++, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
 
-*2025.02 - 2025.12*
-  </div>
 </div>
-
-<div class="paper-box">
-  <div class="paper-box-image" style="flex: 0 0 80px; display: flex; align-items: center;">
-    <img src="/images/minimax-logo.png" alt="MiniMax logo" class="internship-logo" />
-  </div>
-  <div class="paper-box-text" markdown="1">
-**MiniMax**
-
-TopTalent Intern
-
-*2025.12 - 2026.02*
-  </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mvar.png' alt="Auto-Regressively Generating Multi-View Consistent Images teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class="paper-box">
-  <div class="paper-box-image" style="flex: 0 0 80px; display: flex; align-items: center;">
-    <img src="/images/bytedance-logo.png" alt="ByteDance logo" class="internship-logo" />
-  </div>
-  <div class="paper-box-text" markdown="1">
-**ByteDance**
+<a href="https://arxiv.org/abs/2506.18527" style="font-size: 22px; color: #483D8B; text-decoration: none">**Auto-Regressively Generating Multi-View Consistent Images**</a><br>
+<span style="font-size: 18px;">JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu</span><br>
+<span style="font-size: 18px;"> `https://arxiv.org/abs/2506.18527`</span>
 
-Researcher
+<span style="font-size: 18px;">-  We present Auto-Regressively Generating Multi-View Consistent Images, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
 
-*2026.02 - Now*
-  </div>
 </div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/NOVA3D.png' alt="NOVA3D teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[Email](yyxiao319319@gmail.com) / [Github](https://github.com/YuxiaoYang23) / [Google Scholar](https://scholar.google.com/citations?user=WwKt4BEAAAAJ&hl=en)
+<a href="https://arxiv.org/abs/2506.07698" style="font-size: 22px; color: #483D8B; text-decoration: none">**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**</a><br>
+<span style="font-size: 18px;">**Y Yang**, P Li, Y Zhang, J Lu, X He, M Qin, W Wang, H Wang</span><br>
+<span style="font-size: 18px;"> `https://arxiv.org/abs/2506.07698`</span>
+
+<span style="font-size: 18px;">-  We present NOVA3D, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/mvreward.png' alt="Mvreward teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2412.06614" style="font-size: 22px; color: #483D8B; text-decoration: none">**Mvreward: Better aligning and evaluating multi-view diffusion models with human preferences**</a><br>
+<span style="font-size: 18px;">W Wang, H Xu, **Y Yang**, Z Liu, J Meng, H Wang</span><br>
+<span style="font-size: 18px;"> `https://arxiv.org/abs/2412.06614`</span>
+
+<span style="font-size: 18px;">-  We present Mvreward, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/TBSD.png' alt="Target-Balanced Score Distillation teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2511.11710" style="font-size: 22px; color: #483D8B; text-decoration: none">**Target-Balanced Score Distillation**</a><br>
+<span style="font-size: 18px;">Z Xu, Q Wang, **Y Yang**, L Zhang, Z Liang, Y Li</span><br>
+<span style="font-size: 18px;"> `https://arxiv.org/abs/2511.11710`</span>
+
+<span style="font-size: 18px;">-  We present Target-Balanced Score Distillation, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+
+</div>
+</div>
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
