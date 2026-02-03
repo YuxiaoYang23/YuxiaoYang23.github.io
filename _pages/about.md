@@ -39,7 +39,8 @@ Publications
 
 <a href="https://arxiv.org/abs/2512.18814" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**</a><br>
 <span style="font-size: 18px;">**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year</span><br>
-<span style="font-size: 18px;"> `https://arxiv.org/abs/2512.18814`</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2512.18814)</span>
+- We present EchoMotion, a novel diffusion-based framework for unified human video and motion generation.
 
 </div>
 </div>
@@ -50,7 +51,8 @@ Publications
 
 <a href="https://arxiv.org/abs/2511.01767" style="font-size: 22px; color: #483D8B; text-decoration: none">**Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image**</a><br>
 <span style="font-size: 18px;">**Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin</span><br>
-<span style="font-size: 18px;"> `https://arxiv.org/abs/2511.01767`</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2511.01767)</span>
+- We present Wonder3D++, a novel cross-domain diffusion framework for high-fidelity 3D generation from a single image.
 
 </div>
 </div>
@@ -61,7 +63,8 @@ Publications
 
 <a href="https://arxiv.org/abs/2506.18527" style="font-size: 22px; color: #483D8B; text-decoration: none">**Auto-Regressively Generating Multi-View Consistent Images**</a><br>
 <span style="font-size: 18px;">JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu</span><br>
-<span style="font-size: 18px;"> `https://arxiv.org/abs/2506.18527`</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2506.18527)</span>
+- We propose a novel auto-regressive model for generating multi-view consistent images.
 
 </div>
 </div>
@@ -72,7 +75,8 @@ Publications
 
 <a href="https://arxiv.org/abs/2506.07698" style="font-size: 22px; color: #483D8B; text-decoration: none">**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**</a><br>
 <span style="font-size: 18px;">**Y Yang**, P Li, Y Zhang, J Lu, X He, M Qin, W Wang, H Wang</span><br>
-<span style="font-size: 18px;"> `https://arxiv.org/abs/2506.07698`</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2506.07698)</span>
+- We introduce NOVA3D, a normal aligned video diffusion model for single image to 3D generation.
 
 </div>
 </div>
@@ -83,7 +87,8 @@ Publications
 
 <a href="https://arxiv.org/abs/2412.06614" style="font-size: 22px; color: #483D8B; text-decoration: none">**Mvreward: Better aligning and evaluating multi-view diffusion models with human preferences**</a><br>
 <span style="font-size: 18px;">W Wang, H Xu, **Y Yang**, Z Liu, J Meng, H Wang</span><br>
-<span style="font-size: 18px;"> `https://arxiv.org/abs/2412.06614`</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2412.06614)</span>
+- We propose Mvreward, a novel framework for better aligning and evaluating multi-view diffusion models with human preferences.
 
 </div>
 </div>
@@ -94,7 +99,8 @@ Publications
 
 <a href="https://arxiv.org/abs/2511.11710" style="font-size: 22px; color: #483D8B; text-decoration: none">**Target-Balanced Score Distillation**</a><br>
 <span style="font-size: 18px;">Z Xu, Q Wang, **Y Yang**, L Zhang, Z Liang, Y Li</span><br>
-<span style="font-size: 18px;"> `https://arxiv.org/abs/2511.11710`</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2511.11710)</span>
+- We introduce Target-Balanced Score Distillation, a novel method for improving the performance of score-based generative models.
 
 </div>
 </div>
