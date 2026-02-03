@@ -39,7 +39,7 @@ My research interest includes video generation, 3D generation, and multimodal le
 
 
 <a href="https://arxiv.org/abs/2512.18814" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**</a><br>
-<span style="font-size: 18px;">**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year</span><br>
+<span style="font-size: 18px;">**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Ye</span><br>
 <span style="font-size: 18px;">🌐 [**Website**](https://yuxiaoyang23.github.io/EchoMotion-webpage/)&nbsp;&nbsp;&nbsp; 📄 [**Paper**](https://arxiv.org/abs/2512.18814)&nbsp;&nbsp;&nbsp; 💻 [**Code**](https://github.com/YuxiaoYang23/EchoMotion)&nbsp;&nbsp;&nbsp; 🤖 [**Model**](https://huggingface.co/Yuxiao319/EchoMotion)</span>
 - We present EchoMotion, a novel diffusion-based framework for unified human video and motion generation.
 
