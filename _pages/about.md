@@ -71,7 +71,7 @@ My research interest includes video generation, 3D generation, and multimodal le
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/NOVA3D.png' alt="NOVA3D teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Best Paper Finalist</div><img src='images/NOVA3D.png' alt="NOVA3D teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2506.07698" style="font-size: 22px; color: #483D8B; text-decoration: none">**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**</a><br>
@@ -88,7 +88,7 @@ My research interest includes video generation, 3D generation, and multimodal le
 
 <a href="https://arxiv.org/abs/2412.06614" style="font-size: 22px; color: #483D8B; text-decoration: none">**Mvreward: Better aligning and evaluating multi-view diffusion models with human preferences**</a><br>
 <span style="font-size: 18px;">W Wang, H Xu, **Y Yang**, Z Liu, J Meng, H Wang</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2412.06614)</span>
+<span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2412.06614)</span>
 - We propose Mvreward, a novel framework for better aligning and evaluating multi-view diffusion models with human preferences.
 
 </div>
@@ -100,7 +100,7 @@ My research interest includes video generation, 3D generation, and multimodal le
 
 <a href="https://arxiv.org/abs/2511.11710" style="font-size: 22px; color: #483D8B; text-decoration: none">**Target-Balanced Score Distillation**</a><br>
 <span style="font-size: 18px;">Z Xu, Q Wang, **Y Yang**, L Zhang, Z Liang, Y Li</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2511.11710)</span>
+<span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2511.11710)</span>
 - We introduce Target-Balanced Score Distillation, a novel method for improving the performance of score-based generative models.
 
 </div>
