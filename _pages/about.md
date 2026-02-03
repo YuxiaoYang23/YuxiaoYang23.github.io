@@ -37,21 +37,22 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/EchoMotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 <a href="https://arxiv.org/abs/2512.18814" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**</a><br>
 <span style="font-size: 18px;">**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2512.18814)</span>
+<span style="font-size: 18px;">[**Website**](https://yuxiaoyang23.github.io/EchoMotion-webpage/) [**Paper**](https://arxiv.org/abs/2512.18814) [**Code**](https://github.com/YuxiaoYang23/EchoMotion) [**Model**](https://huggingface.co/Yuxiao319/EchoMotion)</span>
 - We present EchoMotion, a novel diffusion-based framework for unified human video and motion generation.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-PAMI</div><img src='images/wonder3d++.png' alt="Wonder3D++ teaser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/wonder3d++.png' alt="Wonder3D++ teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2511.01767" style="font-size: 22px; color: #483D8B; text-decoration: none">**Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image**</a><br>
 <span style="font-size: 18px;">**Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2511.01767)</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2511.01767) [**Code**](https://github.com/xxlong0/Wonder3D/tree/Wonder3D_Plus) [**Model**](https://huggingface.co/flamehaze1115/Wonder3D_plus)</span>
 - We present Wonder3D++, a novel cross-domain diffusion framework for high-fidelity 3D generation from a single image.
 
 </div>
@@ -63,7 +64,7 @@ Publications
 
 <a href="https://arxiv.org/abs/2506.18527" style="font-size: 22px; color: #483D8B; text-decoration: none">**Auto-Regressively Generating Multi-View Consistent Images**</a><br>
 <span style="font-size: 18px;">JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2506.18527)</span>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2506.18527) [**Code**](https://github.com/MILab-PKU/MVAR) [**Model**](https://huggingface.co/Jiakui/MV-AR)</span>
 - We propose a novel auto-regressive model for generating multi-view consistent images.
 
 </div>
