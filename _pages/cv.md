@@ -17,20 +17,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*   <img src="/images/hkust-logo.png" alt="HKUST Logo" width="20" height="20"> HKUST｜Research Intern｜ 2024.06 - 2024.11
+*   <img src="/images/baidu-logo.png" alt="Baidu Logo" width="20" height="20"> Baidu｜Research Intern｜ 2024.12 - 2025.02
+*   <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud Logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜ 2025.02-2025.12
+*   <img src="/images/minimax-logo.png" alt="MiniMax Logo" width="20" height="20"> MiniMax | TopTalent Intern | 2025.12-2026.2
+*   <img src="/images/bytedance-logo.png" alt="ByteDance Logo" width="20" height="20"> ByteDance | Researcher | 2026.2-Now
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
