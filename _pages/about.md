@@ -18,10 +18,10 @@ I am currently a Master student at **Tsinghua University**, advised by Prof.[Hao
 
 My research interest includes video generation, 3D generation, and multimodal learning.
 
-[Email](yyxiao319319@gmail.com) / [Github](https://github.com/YuxiaoYang23) / [Google Scholar](https://scholar.google.com/citations?user=WwKt4BEAAAAJ&hl=en)
+📧 [Email](yyxiao319319@gmail.com) / 💻 [Github](https://github.com/YuxiaoYang23) / 📚 [Google Scholar](https://scholar.google.com/citations?user=WwKt4BEAAAAJ&hl=en)
 
 
-Experience
+💼 Experience
 ======
 * <img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11
 * <img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02
@@ -31,7 +31,7 @@ Experience
 
 
 
-Publications
+📝 Publications
 ======
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/EchoMotion.png' alt="sym" width="100%"></div></div>
@@ -64,7 +64,7 @@ Publications
 
 <a href="https://arxiv.org/abs/2506.18527" style="font-size: 22px; color: #483D8B; text-decoration: none">**Auto-Regressively Generating Multi-View Consistent Images**</a><br>
 <span style="font-size: 18px;">JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2506.18527) [**Code**](https://github.com/MILab-PKU/MVAR) [**Model**](https://huggingface.co/Jiakui/MV-AR)</span>
+<span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2506.18527)&nbsp;&nbsp;&nbsp; 💻 [**Code**](https://github.com/MILab-PKU/MVAR)&nbsp;&nbsp;&nbsp; 🤖 [**Model**](https://huggingface.co/Jiakui/MV-AR)</span>
 - We propose a novel auto-regressive model for generating multi-view consistent images.
 
 </div>
@@ -76,7 +76,7 @@ Publications
 
 <a href="https://arxiv.org/abs/2506.07698" style="font-size: 22px; color: #483D8B; text-decoration: none">**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**</a><br>
 <span style="font-size: 18px;">**Y Yang**, P Li, Y Zhang, J Lu, X He, M Qin, W Wang, H Wang</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2506.07698)</span>
+<span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2506.07698)</span>
 - We introduce NOVA3D, a normal aligned video diffusion model for single image to 3D generation.
 
 </div>
