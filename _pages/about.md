@@ -14,11 +14,28 @@ This is the front page of a website that is powered by the [academicpages templa
 Biography
 ======
 -->
-I am currently a 1st-Year Master student at **Tsinghua University**, advised by Prof.[Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate). Previously, I did my bachelor's degree in Information Engineering at **Zhejiang University**.
+I am currently a Master student at **Tsinghua University**, advised by Prof.[Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate). Previously, I did my bachelor's degree in Information Engineering at **Zhejiang University**. 
 
-My currrent research topic is 3D generative model.
+My research interest includes video generation, 3D generation, and multimodal learning.
 
-[Email](yangyuxi23@mails.tsinghua.edu.cn) / [Github](https://github.com/YuxiaoYang23)
+Publications
+======
+* <img src="/images/EchoMotion.png" alt="EchoMotion teaser" width="140"> EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer. **Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year. ICLR 2026. [arXiv](https://arxiv.org/abs/2512.18814)
+* <img src="/images/wonder3d++.png" alt="Wonder3D++ teaser" width="140"> Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image. **Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin. IEEE Transactions on Pattern Analysis and Machine Intelligence. [arXiv](https://arxiv.org/abs/2511.01767)
+* <img src="/images/mvar.png" alt="Auto-Regressively Generating Multi-View Consistent Images teaser" width="140"> Auto-Regressively Generating Multi-View Consistent Images. JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu. ICCV 2025. [arXiv](https://arxiv.org/abs/2506.18527)
+* <img src="/images/NOVA3D.png" alt="NOVA3D teaser" width="140"> NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation. **Y Yang**, P Li, Y Zhang, J Lu, X He, M Qin, W Wang, H Wang. ICME 2025 Best Paper Final List. [arXiv](https://arxiv.org/abs/2506.07698)
+* <img src="/images/mvreward.png" alt="Mvreward teaser" width="140"> Mvreward: Better aligning and evaluating multi-view diffusion models with human preferences. W Wang, H Xu, **Y Yang**, Z Liu, J Meng, H Wang. AAAI 2025. [arXiv](https://arxiv.org/abs/2412.06614)
+* <img src="/images/TBSD.png" alt="Target-Balanced Score Distillation teaser" width="140"> Target-Balanced Score Distillation. Z Xu, Q Wang, **Y Yang**, L Zhang, Z Liang, Y Li. AAAI 2026. [arXiv](https://arxiv.org/abs/2511.11710)
+
+Internship Experience
+======
+* <img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11
+* <img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02
+* <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜2025.02 - 2025.12
+* <img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> MiniMax｜TopTalent Intern｜2025.12 - 2026.02
+* <img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> ByteDance｜Researcher｜2026.02 - Now
+
+[Email](yyxiao319319@gmail.com) / [Github](https://github.com/YuxiaoYang23)
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
