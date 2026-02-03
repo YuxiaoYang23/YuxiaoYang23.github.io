@@ -34,7 +34,8 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+publications = pd.read_csv("publications.tsv", sep="\t", header=0, dtype={'pub_date': str, 'url_slug': str})
+publications['url_slug'] = publications['url_slug'].fillna('').str.strip()
 publications
 
 
@@ -64,8 +65,19 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    final_url_slug = item.url_slug
+    if not final_url_slug:
+        # Basic slugification from title if url_slug is empty
+        final_url_slug = item.title.lower().replace(' ', '-')
+        # Remove any characters that are not alphanumeric or hyphens
+        final_url_slug = ''.join(c for c in final_url_slug if c.isalnum() or c == '-')
+        # Remove multiple hyphens and leading/trailing hyphens
+        final_url_slug = '-'.join(filter(None, final_url_slug.split('-')))
+        if not final_url_slug: # Fallback if title also results in empty slug
+            final_url_slug = "no-slug-for-this-publication"
+
+    md_filename = str(item.pub_date) + "-" + final_url_slug + ".md"
+    html_filename = str(item.pub_date) + "-" + final_url_slug
     year = item.pub_date[:4]
     
     ## YAML variables
