@@ -40,7 +40,7 @@ Publications
 
 <a href="https://arxiv.org/abs/2512.18814" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**</a><br>
 <span style="font-size: 18px;">**Y Yang**, H Sheng, S Cai, J Lin, J Wang, B Deng, J Lu, H Wang, J Year</span><br>
-<span style="font-size: 18px;">[**Website**](https://yuxiaoyang23.github.io/EchoMotion-webpage/) [**Paper**](https://arxiv.org/abs/2512.18814) [**Code**](https://github.com/YuxiaoYang23/EchoMotion) [**Model**](https://huggingface.co/Yuxiao319/EchoMotion)</span>
+<span style="font-size: 18px;">🌐 [**Website**](https://yuxiaoyang23.github.io/EchoMotion-webpage/)&nbsp;&nbsp;&nbsp; 📄 [**Paper**](https://arxiv.org/abs/2512.18814)&nbsp;&nbsp;&nbsp; 💻 [**Code**](https://github.com/YuxiaoYang23/EchoMotion)&nbsp;&nbsp;&nbsp; 🤖 [**Model**](https://huggingface.co/Yuxiao319/EchoMotion)</span>
 - We present EchoMotion, a novel diffusion-based framework for unified human video and motion generation.
 
 </div>
@@ -52,7 +52,7 @@ Publications
 
 <a href="https://arxiv.org/abs/2511.01767" style="font-size: 22px; color: #483D8B; text-decoration: none">**Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image**</a><br>
 <span style="font-size: 18px;">**Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2511.01767) [**Code**](https://github.com/xxlong0/Wonder3D/tree/Wonder3D_Plus) [**Model**](https://huggingface.co/flamehaze1115/Wonder3D_plus)</span>
+<span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2511.01767)&nbsp;&nbsp;&nbsp; 💻 [**Code**](https://github.com/xxlong0/Wonder3D/tree/Wonder3D_Plus)&nbsp;&nbsp;&nbsp; 🤖 [**Model**](https://huggingface.co/flamehaze1115/Wonder3D_plus)</span>
 - We present Wonder3D++, a novel cross-domain diffusion framework for high-fidelity 3D generation from a single image.
 
 </div>
