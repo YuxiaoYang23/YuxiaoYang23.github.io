@@ -63,7 +63,7 @@ My research interest includes video generation, 3D generation, and multimodal le
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2506.18527" style="font-size: 22px; color: #483D8B; text-decoration: none">**Auto-Regressively Generating Multi-View Consistent Images**</a><br>
-<span style="font-size: 18px;">JK Hu, **Y Yang**, J Liu, J Wu, C Zhao, Y Lu</span><br>
+<span style="font-size: 18px;">JK Hu<sup>*</sup>, **Y Yang<sup>*</sup>**, J Liu, J Wu, C Zhao, Y Lu</span><br>
 <span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2506.18527)&nbsp;&nbsp;&nbsp; 💻 [**Code**](https://github.com/MILab-PKU/MVAR)&nbsp;&nbsp;&nbsp; 🤖 [**Model**](https://huggingface.co/Jiakui/MV-AR)</span>
 - We propose a novel auto-regressive model for generating multi-view consistent images.
 
