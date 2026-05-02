@@ -23,16 +23,16 @@ My research interest includes video generation, 3D generation, and multimodal le
 
 💼 Experience
 ======
-* <img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> **HKUST** | **Research Intern** | 2024.06 - 2024.11
-  - Worked on high-fidelity 3D textured mesh generation.
-* <img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> **Baidu** | **Research Intern** | 2024.12 - 2025.02
-  - Explored auto-regressive multi-view image generation.
-* <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> **Alibaba Cloud** | **Research Intern** | 2025.02 - 2025.12
-  - Worked on complex human motion video generation and unified multimodal generation.
-* <img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> **MiniMax** | **TopTalent Intern** | 2025.12 - 2026.01
-  - Contributed to video foundation model development.
-* <img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> **ByteDance** | **Researcher** | 2026.02 - Now
-  - Contributing to the Seedance series of generative video models.
+* <span class="experience-entry"><img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11</span>
+  - <span class="experience-detail">Worked on high-fidelity 3D textured mesh generation.</span>
+* <span class="experience-entry"><img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02</span>
+  - <span class="experience-detail">Explored auto-regressive multi-view image generation.</span>
+* <span class="experience-entry"><img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜2025.02 - 2025.12</span>
+  - <span class="experience-detail">Worked on complex human motion video generation and unified multimodal generation.</span>
+* <span class="experience-entry"><img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> MiniMax｜TopTalent Intern｜2025.12 - 2026.01</span>
+  - <span class="experience-detail">Contributed to video foundation model development.</span>
+* <span class="experience-entry"><img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> ByteDance｜Researcher｜2026.02 - Now</span>
+  - <span class="experience-detail">Contributing to the Seedance series of generative video models.</span>
 
 
 
