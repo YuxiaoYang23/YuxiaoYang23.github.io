@@ -24,10 +24,15 @@ My research interest includes video generation, 3D generation, and multimodal le
 💼 Experience
 ======
 * <img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11
+  - Worked on high-fidelity 3D textured mesh generation.
 * <img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02
+  - Explored auto-regressive multi-view image generation.
 * <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜2025.02 - 2025.12
+  - Worked on complex human motion video generation and unified multimodal generation.
 * <img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> MiniMax｜TopTalent Intern｜2025.12 - 2026.01
+  - Contributed to video foundation model development.
 * <img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> ByteDance｜Researcher｜2026.02 - Now
+  - Contributing to the Seedance series of generative video models.
 
 
 
@@ -54,6 +59,18 @@ My research interest includes video generation, 3D generation, and multimodal le
 <span style="font-size: 18px;">**Y Yang**, X Long, Z Dou, C Lin, Y Liu, Q Yan, Y Ma, H Wang, Z Wu, W Yin</span><br>
 <span style="font-size: 18px;">📄 [**Paper**](https://arxiv.org/abs/2511.01767)&nbsp;&nbsp;&nbsp; 💻 [**Code**](https://github.com/xxlong0/Wonder3D/tree/Wonder3D_Plus)&nbsp;&nbsp;&nbsp; 🤖 [**Model**](https://huggingface.co/flamehaze1115/Wonder3D_plus)</span>
 - We present Wonder3D++, a novel cross-domain diffusion framework for high-fidelity 3D generation from a single image.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/anyid.png' alt="AnyID teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2603.25188" style="font-size: 22px; color: #483D8B; text-decoration: none">**AnyID: Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References**</a><br>
+<span style="font-size: 18px;">J Wang, H Sheng, S Cai, **Y Yang**, W Zhang, C Yan, B Deng, J Ye</span><br>
+<span style="font-size: 18px;">🌐 [**Website**](https://johnneywang.github.io/AnyID-webpage/)&nbsp;&nbsp;&nbsp; 📄 [**Paper**](https://arxiv.org/abs/2603.25188)</span>
+- We present AnyID, an ultra-fidelity identity-preserving video generation framework from diverse visual references.
 
 </div>
 </div>

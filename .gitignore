@@ -7,3 +7,8 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore local Ruby dependencies/config
+vendor/
+.bundle/
+.bundle-ruby32/
