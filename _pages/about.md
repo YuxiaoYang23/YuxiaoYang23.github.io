@@ -23,44 +23,16 @@ My research interest includes video generation, 3D generation, and multimodal le
 
 💼 Experience
 ======
-
-<div class="experience-list">
-  <div class="experience-item">
-    <img class="experience-logo" src="/images/hkust-logo.png" alt="HKUST logo">
-    <div class="experience-content">
-      <div class="experience-meta"><strong>HKUST</strong><span>Research Intern</span><time>2024.06 - 2024.11</time></div>
-      <div class="experience-desc">High-fidelity 3D textured mesh generation.</div>
-    </div>
-  </div>
-  <div class="experience-item">
-    <img class="experience-logo" src="/images/baidu-logo.png" alt="Baidu logo">
-    <div class="experience-content">
-      <div class="experience-meta"><strong>Baidu</strong><span>Research Intern</span><time>2024.12 - 2025.02</time></div>
-      <div class="experience-desc">Auto-regressive multi-view image generation.</div>
-    </div>
-  </div>
-  <div class="experience-item">
-    <img class="experience-logo" src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo">
-    <div class="experience-content">
-      <div class="experience-meta"><strong>Alibaba Cloud</strong><span>Research Intern</span><time>2025.02 - 2025.12</time></div>
-      <div class="experience-desc">Complex human motion video generation and unified multimodal generation.</div>
-    </div>
-  </div>
-  <div class="experience-item">
-    <img class="experience-logo" src="/images/minimax-logo.png" alt="MiniMax logo">
-    <div class="experience-content">
-      <div class="experience-meta"><strong>MiniMax</strong><span>TopTalent Intern</span><time>2025.12 - 2026.01</time></div>
-      <div class="experience-desc">Video foundation model development.</div>
-    </div>
-  </div>
-  <div class="experience-item">
-    <img class="experience-logo" src="/images/bytedance-logo.png" alt="ByteDance logo">
-    <div class="experience-content">
-      <div class="experience-meta"><strong>ByteDance</strong><span>Researcher</span><time>2026.02 - Now</time></div>
-      <div class="experience-desc">Contributing to the Seedance series of generative video models.</div>
-    </div>
-  </div>
-</div>
+* <img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> **HKUST** | **Research Intern** | 2024.06 - 2024.11
+  - Worked on high-fidelity 3D textured mesh generation.
+* <img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> **Baidu** | **Research Intern** | 2024.12 - 2025.02
+  - Explored auto-regressive multi-view image generation.
+* <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> **Alibaba Cloud** | **Research Intern** | 2025.02 - 2025.12
+  - Worked on complex human motion video generation and unified multimodal generation.
+* <img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> **MiniMax** | **TopTalent Intern** | 2025.12 - 2026.01
+  - Contributed to video foundation model development.
+* <img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> **ByteDance** | **Researcher** | 2026.02 - Now
+  - Contributing to the Seedance series of generative video models.
 
 
 
