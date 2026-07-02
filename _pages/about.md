@@ -14,25 +14,25 @@ This is the front page of a website that is powered by the [academicpages templa
 Biography
 ======
 -->
-I am currently a Master student at **Tsinghua University**, advised by Prof.[Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate). Previously, I did my bachelor's degree in Information Engineering at **Zhejiang University**. 
+I am currently a Researcher at **ByteDance**. Previously, I received my master's degree from **Tsinghua University**, advised by Prof. [Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate), and my bachelor's degree in Information Engineering from **Zhejiang University**. 
 
 My research interest includes video generation, 3D generation, and multimodal learning.
 
-📧 [Email](yyxiao319319@gmail.com) / 💻 [Github](https://github.com/YuxiaoYang23) / 📚 [Google Scholar](https://scholar.google.com/citations?user=WwKt4BEAAAAJ&hl=en)
+📧 [Email](mailto:yangyuxiao.yyx@bytedance.com) / 💻 [Github](https://github.com/YuxiaoYang23) / 📚 [Google Scholar](https://scholar.google.com/citations?user=WwKt4BEAAAAJ&hl=en)
 
 
 💼 Experience
 ======
-* <span class="experience-entry"><img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11</span>
-  - <span class="experience-detail">Worked on high-fidelity 3D textured mesh generation.</span>
-* <span class="experience-entry"><img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02</span>
-  - <span class="experience-detail">Explored auto-regressive multi-view image generation.</span>
-* <span class="experience-entry"><img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜2025.02 - 2025.12</span>
-  - <span class="experience-detail">Worked on complex human motion video generation and unified multimodal generation.</span>
-* <span class="experience-entry"><img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> MiniMax｜TopTalent Intern｜2025.12 - 2026.01</span>
-  - <span class="experience-detail">Contributed to video foundation model development.</span>
 * <span class="experience-entry"><img src="/images/bytedance-logo.png" alt="ByteDance logo" width="20" height="20"> ByteDance｜Researcher｜2026.02 - Now</span>
   - <span class="experience-detail">Contributing to the Seedance series of generative video models.</span>
+* <span class="experience-entry"><img src="/images/minimax-logo.png" alt="MiniMax logo" width="20" height="20"> MiniMax｜TopTalent Intern｜2025.12 - 2026.01</span>
+  - <span class="experience-detail">Contributed to video foundation model development.</span>
+* <span class="experience-entry"><img src="/images/alibaba-cloud-logo.png" alt="Alibaba Group logo" width="20" height="20"> Alibaba Group｜Research Intern｜2025.02 - 2025.12</span>
+  - <span class="experience-detail">Worked on complex human motion video generation and unified multimodal generation.</span>
+* <span class="experience-entry"><img src="/images/baidu-logo.png" alt="Baidu logo" width="20" height="20"> Baidu｜Research Intern｜2024.12 - 2025.02</span>
+  - <span class="experience-detail">Explored auto-regressive multi-view image generation.</span>
+* <span class="experience-entry"><img src="/images/hkust-logo.png" alt="HKUST logo" width="20" height="20"> HKUST｜Research Intern｜2024.06 - 2024.11</span>
+  - <span class="experience-detail">Worked on high-fidelity 3D textured mesh generation.</span>
 
 
 

@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-*   <img src="/images/hkust-logo.png" alt="HKUST Logo" width="20" height="20"> HKUST｜Research Intern｜ 2024.06 - 2024.11
-*   <img src="/images/baidu-logo.png" alt="Baidu Logo" width="20" height="20"> Baidu｜Research Intern｜ 2024.12 - 2025.02
-*   <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Cloud Logo" width="20" height="20"> Alibaba Cloud｜Research Intern｜ 2025.02-2025.12
-*   <img src="/images/minimax-logo.png" alt="MiniMax Logo" width="20" height="20"> MiniMax | TopTalent Intern | 2025.12-2026.2
 *   <img src="/images/bytedance-logo.png" alt="ByteDance Logo" width="20" height="20"> ByteDance | Researcher | 2026.2-Now
+*   <img src="/images/minimax-logo.png" alt="MiniMax Logo" width="20" height="20"> MiniMax | TopTalent Intern | 2025.12-2026.2
+*   <img src="/images/alibaba-cloud-logo.png" alt="Alibaba Group Logo" width="20" height="20"> Alibaba Group｜Research Intern｜ 2025.02-2025.12
+*   <img src="/images/baidu-logo.png" alt="Baidu Logo" width="20" height="20"> Baidu｜Research Intern｜ 2024.12 - 2025.02
+*   <img src="/images/hkust-logo.png" alt="HKUST Logo" width="20" height="20"> HKUST｜Research Intern｜ 2024.06 - 2024.11
 
   
 Skills
