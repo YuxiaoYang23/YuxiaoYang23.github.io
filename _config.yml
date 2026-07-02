@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Shenzhen-China"
+locale                   : "Hangzhou-China"
 title                    : "YuxiaoYang's Homepage"
 title_separator          : "-"
 name                     : &name "Yuxiao Yang"
@@ -25,7 +25,7 @@ author:
   name             : "Yuxiao Yang"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Shenzhen, China"
+  location         : "Hangzhou, China"
   employer         : "ByteDance"
   uri              : # URL
   email            : "yangyuxiao.yyx@bytedance.com" 
